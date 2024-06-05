@@ -4,4 +4,4 @@
 
 _aisyahilma_
 
-- [] Wanna learning about Web Devalopment
+- [ ] Wanna learning about Web Devalopment
